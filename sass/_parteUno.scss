@@ -12,7 +12,7 @@
 }
 
 .bg-green {
-    background-color: #13acc0;
+    background-color: $green;
 }
 
 .first-paragraph {
@@ -81,4 +81,18 @@
     width: 100%;
     margin-top: 0px;
 }
+//**********************************************
+.bg-gray {
+    background-color: $lightGray;
+}
 
+.last-title {
+    margin-top: 0px;
+    padding-bottom: 60px;
+    color: $green;
+}
+
+.footer-container {
+    width: 77.34%;
+    padding: 73px 0px 296px 74px;
+}

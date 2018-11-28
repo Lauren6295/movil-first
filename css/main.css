@@ -67,4 +67,16 @@
   width: 100%;
   margin-top: 0px; }
 
+.bg-gray {
+  background-color: #ebebeb; }
+
+.last-title {
+  margin-top: 0px;
+  padding-bottom: 60px;
+  color: #13acc0; }
+
+.footer-container {
+  width: 77.34%;
+  padding: 73px 0px 296px 74px; }
+
 /*# sourceMappingURL=main.css.map */
