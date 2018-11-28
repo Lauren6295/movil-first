@@ -61,11 +61,13 @@
   padding: 239px 281px; }
 
 .bridge {
-  width: 100%; }
+  width: 100%;
+  display: block; }
 
 .woman {
   width: 100%;
-  margin-top: 0px; }
+  margin-top: 0px;
+  display: block; }
 
 .bg-gray {
   background-color: #ebebeb; }
