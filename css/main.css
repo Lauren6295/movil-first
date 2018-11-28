@@ -49,4 +49,22 @@
   font-size: 30px;
   font-weight: bold; }
 
+.bg-purple {
+  width: 100%;
+  background-color: #5b0fa1; }
+
+.arrow-purple {
+  color: #fff;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 239px 281px; }
+
+.bridge {
+  width: 100%; }
+
+.woman {
+  width: 100%;
+  margin-top: 0px; }
+
 /*# sourceMappingURL=main.css.map */
