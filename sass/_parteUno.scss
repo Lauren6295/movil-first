@@ -1,0 +1,62 @@
+.bg-navigation {
+    background-color: $nav;
+    width: 100%;
+}
+
+.navigation-title {
+    color: $white;
+    width: 470px;
+    margin: 0 38px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.bg-green {
+    background-color: #13acc0;
+}
+
+.first-paragraph {
+    margin-top: 0px;
+    padding: 114px 0px 54px 45px;
+    color: $white;
+}
+
+.web-address {
+    padding: 0px 0px 54px 45px;
+    color: $lightGreen;
+}
+
+//***********************************************
+
+.slide::after {
+    content: "";
+    clear: both;
+    display: table;
+    width: 587px;
+}
+
+.bg-slide {
+    background-color: $slide;
+    width: 75.80%;
+    float: left;
+}
+
+.robinHood {
+    color: $robinHood;
+    padding: 58px 94px 58px 54px;
+}
+
+.bg-pink {
+    background-color: $pink;
+    float: left;
+    width: 24.19%;
+    height: 166px;
+    text-align: center;
+    color: $white;
+}
+
+.arrow {
+    padding-top: 38px;
+    font-size: 30px;
+    font-weight: bold;
+}
